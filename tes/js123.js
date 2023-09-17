@@ -25,5 +25,13 @@ let numtobool2= Boolean(d)
 console.log(numtobool1)
 console.log(numtobool2)
 
+console.log(1+"2")
+console.log("2"+1)
+console.log("2"+1+3)
+console.log(2+1+"5")
+
+
+
+
 
 
