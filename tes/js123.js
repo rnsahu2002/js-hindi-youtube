@@ -29,6 +29,20 @@ console.log(1+"2")
 console.log("2"+1)
 console.log("2"+1+3)
 console.log(2+1+"5")
+console.log("bool operations")
+
+console.log(true)
+console.log(+true)
+console.log("bool operations para")
+
+console.log(+"")
+
+let k=Boolean("")
+console.log(k)
+
+console.log(typeof k)
+
+//console.log(true+)
 
 
 
