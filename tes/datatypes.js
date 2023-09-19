@@ -4,5 +4,5 @@
 let str=new String("Ram Sahu")
 console.log(str)
 console.log(str[0])
-console.log(str.toUpperCase)
+// console.log(str)
 
